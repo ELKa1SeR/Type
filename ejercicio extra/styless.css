@@ -1,0 +1,16 @@
+.caja {
+    padding: 10px;
+    margin: 10px;
+    border: 4px solid black;
+}
+.azul { border-color: blue; }
+.amarillo { border-color: yellow; }
+.rojo { border-color: red; }
+.verde { border-color: green; }
+
+#contenedor{
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
